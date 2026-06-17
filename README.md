@@ -51,4 +51,3 @@ NotesHub is a powerful, community-driven note-taking platform designed for stude
    ```bash
    npm run dev
    ```
-
